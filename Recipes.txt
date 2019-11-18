@@ -3,7 +3,13 @@ welcome to telusko kitchen
 2.pasta
 3.pizza
 
+For breakfast
+1.Upma
+2.Idli
 
 
 Thank you
+done my changes
+
 final copy
+
